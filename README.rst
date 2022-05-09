@@ -26,6 +26,10 @@ Scrape image and text content
 * Free software: MIT license
 * Documentation: https://content-scraper.readthedocs.io.
 
+Download
+--------
+
+Before you can start using the package, make sure to download
 
 Features
 --------
